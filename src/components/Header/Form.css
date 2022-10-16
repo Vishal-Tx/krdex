@@ -1,0 +1,144 @@
+.formBox {
+    position: absolute;
+    width: 35%;
+    height: 100%;
+    top: 12%;
+    left: 52%;
+    border-radius: 15px;
+    -webkit-box-shadow: -3px -2px 40px 15px rgba(0, 0, 0, 0.28);
+    -moz-box-shadow: -3px -2px 40px 15px rgba(0, 0, 0, 0.28);
+    box-shadow: -3px -2px 40px 15px rgba(0, 0, 0, 0.28);
+    background-color: white;
+  }
+
+  select{
+    padding-left: 12px;
+  }
+
+.form1Box{
+    position: relative;
+    background-color: whitesmoke;
+    margin: 2% 3%;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.form1Heading{
+    font-size: 1.5rem;
+    margin: 12% 4% 0;
+    font-weight: 600;
+}
+.form1text{
+    font-size: 1.1rem;
+    margin: 2% 4% 8%;
+    font-weight: 400;
+}
+
+.form1Select{
+    display: flex;
+    justify-content: center;
+    margin: 5% 4%;
+    
+   
+    
+}
+.form1Select select{
+    width: 100%;
+    border-radius: 8px;
+    border: 0;
+    height: 40px;
+}
+
+.form1Inputs{
+    display: flex;
+    justify-content:space-between;
+    margin:5% 4%;
+    gap: 20px;
+}
+.form1Inputs input{
+    
+    outline: none;
+    box-shadow: none;
+    width:100%;
+    border-radius: 8px;
+    border: 0;
+    padding: 12px 16px;
+}
+.formNext{
+    position: absolute;
+    color:#00cdc6;
+    border: 1px solid #00cdc6;
+    padding: 2% 4%;
+    width: 25%;
+    bottom: 4%;
+    right: 4%;
+    border-radius: 5px;
+
+}
+
+.formNext:hover{
+    background-color: #00cdc6;
+    color: white;
+}
+
+
+.formSubmit{
+    position: absolute;
+    color:white;
+    background-color: black;
+    padding: 2% 4%;
+    width: 25%;
+    bottom: 4%;
+    right: 4%;
+    border-radius: 5px;
+
+}
+
+.formSubmit:hover{
+    background-color: white;
+    color: black;
+}
+
+.formPrev{
+    position: absolute;
+    background-color: transparent;
+    color: blue;
+    padding: 2% 4%;
+    font-size: 1rem;
+    width: 25%;
+    bottom: 4%;
+    left: 4%;
+    border: none;
+    border-radius: 5px;
+}
+
+.formPrev:hover{
+    color: #00cdc6;
+}
+form{
+    margin-top: 20px;
+}
+.form2Img{
+    margin: auto;
+    display: block;
+    width: 50%;
+    height: 200px;
+}
+
+.form2Inputs{
+    margin-top: 20px;
+    width: 90%;
+    margin: auto;
+
+}
+.form2Input{
+    display: block;
+    outline: none;
+    box-shadow: none;
+    margin: 20px auto 0 auto;
+    width: 90%;
+    border-radius: 5px;
+    border: none;
+    background-color: whitesmoke;
+    padding: 12px 16px;
+}

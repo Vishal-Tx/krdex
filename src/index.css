@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.Toastify svg{
+fill:#00cdc6 ;
+}
+.Toastify .progress{
+  background-color: #00cdc6 ;
+}

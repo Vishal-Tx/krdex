@@ -1,0 +1,28 @@
+.contact{
+    padding-top: 10%;
+}
+.contactHeading{
+    padding-left: 9%;
+    font-size: 3.3rem;
+    font-weight: 600;
+}
+.contactItems{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.contactItem{
+    padding: 0 2%;
+    margin-right: 8%;
+    font-size: 1.1rem;
+    
+}
+
+.contactItem .contactInfo{
+    font-size: 1.2rem;
+    font-weight:600;
+    margin-bottom: 45%;
+}
+.contactItem p{
+margin: 0;
+}

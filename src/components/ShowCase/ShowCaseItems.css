@@ -1,0 +1,4 @@
+.showCaseItems{
+    display: flex;
+    flex-wrap: wrap;
+}

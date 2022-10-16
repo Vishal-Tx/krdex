@@ -1,0 +1,33 @@
+.featureItem{
+    width: 380px;
+    height: 300px;
+    margin-top: 1%;
+    padding: 2%;
+}
+
+.featureTitle{
+    width: 75%;
+    height: 18%;
+    
+}
+
+.featureDesc{
+    width: 65%;
+    text-align:start;
+}
+
+@media screen and (max-width:700px) {
+    .featureItem{
+        text-align: center;
+    }
+    .featureTitle{
+        width: auto;
+        height: auto;
+        
+    }
+    
+    .featureDesc{
+        width: auto;
+        text-align:center;
+    }
+}

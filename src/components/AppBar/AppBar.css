@@ -1,0 +1,24 @@
+.appBar{
+    padding: 0 3%;
+    border: 1px solid black;
+    display: flex;
+}
+
+.menuItems{
+    display: flex;
+    justify-content: flex-end;
+    flex-basis:100%;
+    align-items: center;
+}
+
+.menuItems a{
+    margin-left: 4%;
+    text-decoration: none;
+    color:black;
+   
+    
+}
+
+.menuItems a:hover{
+ color:#00cdc6;
+}

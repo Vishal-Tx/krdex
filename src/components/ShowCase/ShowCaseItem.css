@@ -1,0 +1,22 @@
+.showCaseItem{
+    color: white;
+    width: 220px;
+    height: 150px;
+    margin-top: 1%;
+    padding: 2%;
+    margin-right: 12%;
+}
+
+.showCaseItemHeading{
+    font-size: 1.7rem;
+    margin: 0;
+}
+.showCaseItemHeading p, .showCaseItemDesc p{
+    margin: 2%;
+}
+
+.showCaseItemDesc{
+    color:#00cdc6;
+    font-size: 1.1rem;
+    margin: 0;
+}

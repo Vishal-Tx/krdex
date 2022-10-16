@@ -1,0 +1,15 @@
+.showCase{
+    width: auto;
+    background-color: black;
+    margin-top: 10%;
+    padding: 0% 6%;
+}
+
+.showHeading{
+    color: white;
+    text-align: center;
+    padding-top: 10%;
+    font-size: 1.9rem;
+    letter-spacing: 1px;
+    font-family: 'Poppins', sans-serif;
+}
