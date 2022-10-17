@@ -93,7 +93,7 @@ const Form = () => {
 
       {form2 && (<form onSubmit={handleSubmit}>
         <div className="formStep2">
-          <img className="form2Img" src="/assets/success.jpg" alt="..." />
+          <img className="form2Img" src="/assets/success.webp" alt="..." />
           <div className="form2Inputs">
             <input
               name="IndustryName" value={form2Value.IndustryName} onChange={handleForm2Change} className="form2Input"

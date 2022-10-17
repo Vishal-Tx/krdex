@@ -2,6 +2,7 @@
     padding: 0 3%;
     border: 1px solid black;
     display: flex;
+    position: sticky;
 }
 
 .menuItems{
