@@ -3,7 +3,7 @@ import "./AppBar.css";
 
 const AppBar = () => {
   return (
-    <div className="appBar">
+    <div className="appBar" >
       <h2 className="logoName">KredX</h2>
       <div className="menuItems">
         <a href="https://www.kredx.com/">Menu 1</a>
